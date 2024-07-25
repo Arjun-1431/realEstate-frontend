@@ -1,0 +1,1 @@
+export const baseUrl = 'https://realestate-backend-k9l8.onrender.com'
