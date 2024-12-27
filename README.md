@@ -62,7 +62,6 @@ A feature-rich **Real Estate Management System** designed to streamline the mana
 └── 📂 database              # MongoDB connection files
 
 
-![Screenshot 2024-12-27 164545](https://github.com/user-attachments/assets/14e42869-d7f5-4792-9034-2967954f2696)# 
 ![Screenshot 2024-12-27 164545](https://github.com/user-attachments/assets/f0e833e0-d881-46e9-b362-7bcc7688cbff)
 ![Screenshot 2024-12-27 164609](https://github.com/user-attachments/assets/f2a584e9-9c2c-4c6c-bab8-a9d1f8556cea)
 ![Screenshot 2024-12-27 164625](https://github.com/user-attachments/assets/df09b722-3d76-4a6f-ab87-76824dd3a4b9)
